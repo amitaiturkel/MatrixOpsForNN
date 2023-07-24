@@ -39,4 +39,4 @@ The Matrix and Neural Network Layers project is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions or inquiries, please feel free to contact [Your Name] at [your_email@example.com].
+If you have any questions or inquiries, please feel free to contact [amitai.turkel] at [amitai.turkel@gmail.com].
