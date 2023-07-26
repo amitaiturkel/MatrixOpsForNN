@@ -30,7 +30,8 @@ Examples of using the Matrix and Dense classes can be found in the code provided
 
 ## Contributing
 
-Oriyan Hassidim(the tests)
+Oriyan Hassidim(the tests).
+
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
